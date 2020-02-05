@@ -17,7 +17,7 @@
 #include <iostream>
 #include <unistd.h>
 #include <stdlib.h>
-#include "fourier_trans.hpp"
+#include "ft.hpp"
 
 using namespace std;
 using namespace cv;
